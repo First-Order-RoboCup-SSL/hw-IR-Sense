@@ -1,0 +1,32 @@
+{
+  "width": 5,
+  "helix_angle": 5.403900603220813,
+  "center_distance": 22.5,
+  "axial_extent_mm": [
+    0,
+    5
+  ],
+  "mating_gear_axial_extent_mm": [
+    0,
+    4
+  ],
+  "collision_volumes_mm3": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ]
+}
